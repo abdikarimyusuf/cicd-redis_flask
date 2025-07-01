@@ -17,7 +17,7 @@ jobs:
         with:
          context: .
          push: true
-         tags: bootcamp98/my-name:myimage
+         tags: abdikarim98/my-name:myimage
 
         
 
