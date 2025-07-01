@@ -15,7 +15,7 @@ jobs:
       - name: build and push
         uses: docker/build-push-action@v6
         with:
-         context: ./redis_flask
+         context: .
          push: true
          tags: bootcamp98/my-name:myimage
 
